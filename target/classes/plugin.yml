@@ -1,0 +1,9 @@
+main: io.kipes.HubPlugin
+name: Lobbies
+version: 0.1
+description: HubPlugin, that ass.
+commands:
+  hubplugin:
+    aliases:
+    - "hp"
+    

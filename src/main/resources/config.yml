@@ -1,0 +1,24 @@
+scoreboard:
+  title: '&6&lHub'
+  bar: '&7&m-----------------------'
+  display:
+  - '%bar%'
+  - '&6Online Players:'
+  - '&f%playeronline% / 5,000'
+  - '%spacer%'
+  - '&eCurrent Rank:'
+  - '&f%rank%'
+  - '%spacer%'
+  - '&eQueue: &f%queue_name%'
+  - '&a#%queue_position% out of #%queue_maxpos%'
+  - '%queue_space%'
+  - '&cshop.exlode.org'
+  - '%bar%'
+Spawn:
+  X: -91.55500392054498
+  Y: 28.0
+  Z: 0.501224607279891
+  WORLD: world
+  YAW: 0.583088
+  PITCH: 2.9462702
+Server: Hub-01
